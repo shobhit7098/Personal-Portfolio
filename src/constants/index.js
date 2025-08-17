@@ -58,7 +58,7 @@ import {
 
 import { DiCss3, } from "react-icons/di";
 export const CVLink = "https://drive.google.com/file/d/1Jx9kxtPok1lOaUlv38978Y70X6aZNWWI/view";
-export const repoLink = "https://github.com/umairazmat/personal-portfolio";
+export const repoLink = "https://github.com/shobhit7098/Personal-Portfolio";
 export const profileLink = "https://www.linkedin.com/in/shobhit-sharma-198930278/"
 export const callToAction = "https://www.linkedin.com/in/shobhit-sharma-198930278/";
 
