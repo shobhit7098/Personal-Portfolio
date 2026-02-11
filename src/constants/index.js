@@ -48,6 +48,7 @@ import {
   SiExpress,
   SiFirebase,
   SiVercel,
+  SiWebflow,
 } from "react-icons/si";
 
 import {
@@ -248,6 +249,11 @@ export const skills = [
         id: "t-9",
         icon: SiVercel,
         name: "Vercel",
+      },
+      {
+        id: "t-10",
+        icon: SiWebflow,
+        name: "Webflow"
       },
     ],
   },
