@@ -17,6 +17,7 @@ import {
   greatlearning,
   edu1,
   edu2,
+  superlist,
 } from "../assets";
 
 import {
@@ -297,17 +298,14 @@ export const projects = [
   },
   {
     id: "project-2",
-    title: "E-commerce Shopping Website",
-    github: "https://github.com/shobhit7098",
+    title: "Superlist - Project Management App",
+    github: "https://www.superlist.com/",
     link: "",
-    image: shop,
+    image: superlist,
     content:
-      "A full-stack shopping platform with product listing, cart, and secure checkout. Integrated Stripe/Razorpay payments, admin dashboard, and real-time order management with JWT-secured APIs.",
+      "Superlist is a modern task and project management application designed for both individuals and teams. It combines to-do lists, notes, reminders, and collaboration features into one streamlined workspace. The platform emphasizes simplicity, speed, and beauty while remaining powerful enough to handle complex projects.",
     stack: [
-      { id: "icon-1", icon: SiReact, name: "React" },
-      { id: "icon-2", icon: SiNodedotjs, name: "Node.js" },
-      { id: "icon-3", icon: SiExpress, name: "Express.js" },
-      { id: "icon-4", icon: SiMongodb, name: "MongoDB" },
+      { id: "icon-1", icon: SiWebflow, name: "Webflow" },
     ],
   },
   {

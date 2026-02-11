@@ -61,6 +61,7 @@ import meta from "./meta.svg";
 import pftp from "./pftp.svg";
 import fastech from "./fastech.png";
 import devlotech from "./devlotech.svg";
+import superlist from "./superlist.png";
 
 // Badges
 import blog from "./badges/blog.jpeg";
@@ -149,6 +150,7 @@ export {
   pftp,
   fastech,
   devlotech,
+  superlist,
 
   // Badges
   blog,
