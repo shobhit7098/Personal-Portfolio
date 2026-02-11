@@ -303,7 +303,7 @@ export const projects = [
     link: "",
     image: superlist,
     content:
-      "Superlist is a modern task and project management application designed for both individuals and teams. It combines to-do lists, notes, reminders, and collaboration features into one streamlined workspace. The platform emphasizes simplicity, speed, and beauty while remaining powerful enough to handle complex projects.",
+      "Superlist is a modern task and project management application designed for both individuals and teams. It combines to-do lists, notes, reminders, and collaboration features into one streamlined workspace.",
     stack: [
       { id: "icon-1", icon: SiWebflow, name: "Webflow" },
     ],
